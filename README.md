@@ -11,4 +11,5 @@ Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswM
 - PgAdmin4
 
 Schema- Music Store Database
+
 <img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/f62b77f4-dd80-47bc-91c0-e0476c3d94d4">
